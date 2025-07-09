@@ -1,5 +1,9 @@
-Currency Converter Web App
+#Currency Converter Web App
+
 A simple, responsive web application that converts one currency to another using real-time exchange rates. The app also dynamically shows country flags, validates input, and updates the conversion rate instantly using the Fawaz Ahmed Currency API.
+
+#Live Demo
+ https://ayesha2524.github.io/CurrencyConverter/
 
 Features
 Convert any currency to another in real-time
